@@ -1,7 +1,5 @@
 % TFRE-IMOPA: An algorithm for instantaneous angular frequency (IAF) tracking under strong rotational speed fluctuation conditions
-% 
 % Authors: Changqing Geng and Yifan Li
-%
 % When using the codes, please cite the following papers:
 % [1] Y. Li, C. Geng, M. Zuo, X. Liang. Use of the vibration signal to estimate instantaneous angular frequency under strong nonstationary regimes.
 %     Mechanical Systems and Signal Processing, 2023.
