@@ -10,4 +10,6 @@ Authors: Changqing Geng and Yifan Li
 
  [2] Y. Li, X. Zhang, Z. Chen, Y. Yang, C. Geng, M. Zuo. Time-frequency ridge estimation: An effective tool for gear and bearing fault diagnosis 
 
-     at time-varying speeds. Mechanical Systems and Signal Processing, 2023, 189: 110108.
+     at time-varying speeds. 
+     
+     Mechanical Systems and Signal Processing, 2023, 189: 110108.
